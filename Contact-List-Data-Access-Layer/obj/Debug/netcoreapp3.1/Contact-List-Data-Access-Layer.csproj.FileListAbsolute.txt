@@ -1,0 +1,17 @@
+C:\Users\araddani\Desktop\Contact-List-API\Contact-List-Data-Access-Layer\bin\Debug\netcoreapp3.1\Contact-List-Data-Access-Layer.deps.json
+C:\Users\araddani\Desktop\Contact-List-API\Contact-List-Data-Access-Layer\bin\Debug\netcoreapp3.1\Contact-List-Data-Access-Layer.dll
+C:\Users\araddani\Desktop\Contact-List-API\Contact-List-Data-Access-Layer\obj\Debug\netcoreapp3.1\Contact-List-Data-Access-Layer.csprojAssemblyReference.cache
+C:\Users\araddani\Desktop\Contact-List-API\Contact-List-Data-Access-Layer\obj\Debug\netcoreapp3.1\Contact-List-Data-Access-Layer.AssemblyInfoInputs.cache
+C:\Users\araddani\Desktop\Contact-List-API\Contact-List-Data-Access-Layer\obj\Debug\netcoreapp3.1\Contact-List-Data-Access-Layer.AssemblyInfo.cs
+C:\Users\araddani\Desktop\Contact-List-API\Contact-List-Data-Access-Layer\bin\Debug\netcoreapp3.1\Contact-List-Data-Access-Layer.runtimeconfig.json
+C:\Users\araddani\Desktop\Contact-List-API\Contact-List-Data-Access-Layer\bin\Debug\netcoreapp3.1\Contact-List-Data-Access-Layer.runtimeconfig.dev.json
+C:\Users\araddani\Desktop\Contact-List-API\Contact-List-Data-Access-Layer\obj\Debug\netcoreapp3.1\Contact-List-Data-Access-Layer.genruntimeconfig.cache
+C:\Users\araddani\Desktop\Contact-List-API\Contact-List-Data-Access-Layer\bin\Debug\netcoreapp3.1\Contact-List-Data-Access-Layer.dll.config
+C:\Users\araddani\Desktop\Contact-List-API\Contact-List-Data-Access-Layer\bin\Debug\netcoreapp3.1\Contact-List-Data-Access-Layer.pdb
+C:\Users\araddani\Desktop\Contact-List-API\Contact-List-Data-Access-Layer\bin\Debug\netcoreapp3.1\Contact-List-Core.dll
+C:\Users\araddani\Desktop\Contact-List-API\Contact-List-Data-Access-Layer\bin\Debug\netcoreapp3.1\Contact-List-Core.pdb
+C:\Users\araddani\Desktop\Contact-List-API\Contact-List-Data-Access-Layer\bin\Debug\netcoreapp3.1\Contact-List-Core.dll.config
+C:\Users\araddani\Desktop\Contact-List-API\Contact-List-Data-Access-Layer\obj\Debug\netcoreapp3.1\Contact-List-Data-Access-Layer.csproj.CopyComplete
+C:\Users\araddani\Desktop\Contact-List-API\Contact-List-Data-Access-Layer\obj\Debug\netcoreapp3.1\Contact-List-Data-Access-Layer.dll
+C:\Users\araddani\Desktop\Contact-List-API\Contact-List-Data-Access-Layer\obj\Debug\netcoreapp3.1\Contact-List-Data-Access-Layer.pdb
+C:\Users\araddani\Desktop\Contact-List-API\Contact-List-Data-Access-Layer\obj\Debug\netcoreapp3.1\Contact-List-Data-Access-Layer.csproj.CoreCompileInputs.cache

@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\araddani\\Desktop\\Contact-List-API\\ContactList-Blazer\\Server\\ContactList-Blazer.Server.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\araddani\\Desktop\\Contact-List-API\\ContactList-Blazer\\Client\\ContactList-Blazer.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\araddani\\Desktop\\Contact-List-API\\ContactList-Blazer\\Client\\ContactList-Blazer.Client.csproj",
+        "projectName": "ContactList-Blazer.Client",
+        "projectPath": "C:\\Users\\araddani\\Desktop\\Contact-List-API\\ContactList-Blazer\\Client\\ContactList-Blazer.Client.csproj",
+        "packagesPath": "C:\\Users\\araddani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\araddani\\Desktop\\Contact-List-API\\ContactList-Blazer\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\araddani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "C:\\Users\\araddani\\Desktop\\Contact-List-API\\ContactList-Blazer\\Shared\\ContactList-Blazer.Shared.csproj": {
+                "projectPath": "C:\\Users\\araddani\\Desktop\\Contact-List-API\\ContactList-Blazer\\Shared\\ContactList-Blazer.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.Build": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.1, )"
+            },
+            "System.Net.Http.Json": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\araddani\\Desktop\\Contact-List-API\\ContactList-Blazer\\Server\\ContactList-Blazer.Server.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\araddani\\Desktop\\Contact-List-API\\ContactList-Blazer\\Server\\ContactList-Blazer.Server.csproj",
+        "projectName": "ContactList-Blazer.Server",
+        "projectPath": "C:\\Users\\araddani\\Desktop\\Contact-List-API\\ContactList-Blazer\\Server\\ContactList-Blazer.Server.csproj",
+        "packagesPath": "C:\\Users\\araddani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\araddani\\Desktop\\Contact-List-API\\ContactList-Blazer\\Server\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\araddani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\araddani\\Desktop\\Contact-List-API\\ContactList-Blazer\\Client\\ContactList-Blazer.Client.csproj": {
+                "projectPath": "C:\\Users\\araddani\\Desktop\\Contact-List-API\\ContactList-Blazer\\Client\\ContactList-Blazer.Client.csproj"
+              },
+              "C:\\Users\\araddani\\Desktop\\Contact-List-API\\ContactList-Blazer\\Shared\\ContactList-Blazer.Shared.csproj": {
+                "projectPath": "C:\\Users\\araddani\\Desktop\\Contact-List-API\\ContactList-Blazer\\Shared\\ContactList-Blazer.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly.Server": {
+              "target": "Package",
+              "version": "[3.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\araddani\\Desktop\\Contact-List-API\\ContactList-Blazer\\Shared\\ContactList-Blazer.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\araddani\\Desktop\\Contact-List-API\\ContactList-Blazer\\Shared\\ContactList-Blazer.Shared.csproj",
+        "projectName": "ContactList-Blazer.Shared",
+        "projectPath": "C:\\Users\\araddani\\Desktop\\Contact-List-API\\ContactList-Blazer\\Shared\\ContactList-Blazer.Shared.csproj",
+        "packagesPath": "C:\\Users\\araddani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\araddani\\Desktop\\Contact-List-API\\ContactList-Blazer\\Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\araddani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
